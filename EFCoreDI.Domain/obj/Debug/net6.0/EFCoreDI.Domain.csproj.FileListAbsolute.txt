@@ -1,0 +1,14 @@
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/bin/Debug/net6.0/EFCoreDI.Domain.deps.json
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/bin/Debug/net6.0/EFCoreDI.Domain.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/bin/Debug/net6.0/EFCoreDI.Domain.pdb
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/EFCoreDI.Domain.csproj.AssemblyReference.cache
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/EFCoreDI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/EFCoreDI.Domain.AssemblyInfoInputs.cache
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/EFCoreDI.Domain.AssemblyInfo.cs
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/EFCoreDI.Domain.csproj.CoreCompileInputs.cache
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/EFCoreDI.Domain.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/refint/EFCoreDI.Domain.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/EFCoreDI.Domain.pdb
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/ref/EFCoreDI.Domain.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/bin/Debug/net6.0/EFCoreDI.Domain.runtimeconfig.json
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/Debug/net6.0/EFCoreDI.Domain.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0-preview.5.22301.12" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EFCoreDI.Application\EFCoreDI.Application.csproj" />
+      <ProjectReference Include="..\EFCoreDI.Domain\EFCoreDI.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

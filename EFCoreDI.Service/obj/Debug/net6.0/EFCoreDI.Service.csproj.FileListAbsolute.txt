@@ -1,0 +1,17 @@
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/bin/Debug/net6.0/EFCoreDI.Service.deps.json
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/bin/Debug/net6.0/EFCoreDI.Service.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/bin/Debug/net6.0/EFCoreDI.Service.pdb
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/EFCoreDI.Service.csproj.AssemblyReference.cache
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/EFCoreDI.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/EFCoreDI.Service.AssemblyInfoInputs.cache
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/EFCoreDI.Service.AssemblyInfo.cs
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/EFCoreDI.Service.csproj.CoreCompileInputs.cache
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/EFCoreDI.Service.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/refint/EFCoreDI.Service.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/EFCoreDI.Service.pdb
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/ref/EFCoreDI.Service.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/bin/Debug/net6.0/EFCoreDI.Application.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/bin/Debug/net6.0/EFCoreDI.Domain.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/bin/Debug/net6.0/EFCoreDI.Application.pdb
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/bin/Debug/net6.0/EFCoreDI.Domain.pdb
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/Debug/net6.0/EFCoreDI.Service.csproj.CopyComplete

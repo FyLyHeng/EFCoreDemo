@@ -1,0 +1,12 @@
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/bin/Debug/net6.0/EFCoreDI.Application.deps.json
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/bin/Debug/net6.0/EFCoreDI.Application.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/bin/Debug/net6.0/EFCoreDI.Application.pdb
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/Debug/net6.0/EFCoreDI.Application.csproj.AssemblyReference.cache
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/Debug/net6.0/EFCoreDI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/Debug/net6.0/EFCoreDI.Application.AssemblyInfoInputs.cache
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/Debug/net6.0/EFCoreDI.Application.AssemblyInfo.cs
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/Debug/net6.0/EFCoreDI.Application.csproj.CoreCompileInputs.cache
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/Debug/net6.0/EFCoreDI.Application.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/Debug/net6.0/refint/EFCoreDI.Application.dll
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/Debug/net6.0/EFCoreDI.Application.pdb
+/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/Debug/net6.0/ref/EFCoreDI.Application.dll

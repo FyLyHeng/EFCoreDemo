@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/EFCoreDI.Service.csproj": {}
+  },
+  "projects": {
+    "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/EFCoreDI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/EFCoreDI.Application.csproj",
+        "projectName": "EFCoreDI.Application",
+        "projectPath": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/EFCoreDI.Application.csproj",
+        "packagesPath": "/Users/liza/.nuget/packages/",
+        "outputPath": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/liza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/EFCoreDI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/EFCoreDI.Domain.csproj",
+        "projectName": "EFCoreDI.Domain",
+        "projectPath": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/EFCoreDI.Domain.csproj",
+        "packagesPath": "/Users/liza/.nuget/packages/",
+        "outputPath": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/liza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/EFCoreDI.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/EFCoreDI.Service.csproj",
+        "projectName": "EFCoreDI.Service",
+        "projectPath": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/EFCoreDI.Service.csproj",
+        "packagesPath": "/Users/liza/.nuget/packages/",
+        "outputPath": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/liza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/EFCoreDI.Application.csproj": {
+                "projectPath": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Application/EFCoreDI.Application.csproj"
+              },
+              "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/EFCoreDI.Domain.csproj": {
+                "projectPath": "/Users/liza/Documents/Project_sample/DI/EFCoreDemo/EFCoreDI.Domain/EFCoreDI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0-preview.5.22301.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
