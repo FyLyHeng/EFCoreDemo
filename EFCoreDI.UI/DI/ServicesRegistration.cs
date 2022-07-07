@@ -44,9 +44,8 @@ namespace EFCoreDI.UI.DI
             var serviceProvider = new ServiceCollection()
                     .AddSingleton<MyDelete>()
                     .AddSingleton<Removes>()
-                    .AddSingleton<Clear>()
-                    .AddSingleton<IDynamicFun>()
-                ;
+                    .AddSingleton<Clear>();
+                    //.AddSingleton<IDynamicFun>();
 
             _serviceProvider = serviceProvider.BuildServiceProvider(true);
         }

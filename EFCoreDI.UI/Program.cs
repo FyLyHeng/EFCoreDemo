@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-using System.Reflection;
 using EFCoreDI.Service;
 using EFCoreDI.UI;
 using Service = EFCoreDI.Service.DI.ServiceRegistration;
@@ -11,7 +10,6 @@ Service.RegisterServices();
 DynamicFun.RegisterServices();
 
 IEmployeeService employeeService = Service.GetService<IEmployeeService>();
-//IInvoiceService invoiceService = ServiceRegistration.GetService<IInvoiceService>();
 employeeService.Display();
 // var inv = new Invoice
 // {
@@ -89,11 +87,10 @@ theMethod?.Invoke(instance, Array.Empty<object>());
 // Clear.Instance().Do();
 
 IDynamicFun? fun = DynamicFun.GetService(Type.GetType("EFCoreDI.UI.Clear")) as IDynamicFun;
-IDynamicFun? fun1 = DynamicFun.GetService(Type.GetType("EFCoreDI.UI.MyDelete")) as IDynamicFun;
-fun.Do();
+IDynamicFun? fun1 = DynamicFun.GetService(Type.GetType("EFCoreDI.UI.Clear")) as IDynamicFun;
 fun.Do();
 fun1.Do();
-fun1.Do();
+
 
 //DynamicFun.GetIService<Clear>().Do();
 
